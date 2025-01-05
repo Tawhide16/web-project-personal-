@@ -1,0 +1,12 @@
+#submit{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 5px 10px;
+    
+}
+image{
+    width: 100%;
+    height: auto;
+    max-width: 600px;
+    max-height: 400px;
+}
